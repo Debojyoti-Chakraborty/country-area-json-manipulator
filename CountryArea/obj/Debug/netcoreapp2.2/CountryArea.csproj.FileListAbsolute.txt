@@ -1,0 +1,11 @@
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\bin\Debug\netcoreapp2.2\CountryArea.deps.json
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\bin\Debug\netcoreapp2.2\CountryArea.runtimeconfig.json
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\bin\Debug\netcoreapp2.2\CountryArea.runtimeconfig.dev.json
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\bin\Debug\netcoreapp2.2\CountryArea.dll
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.csprojAssemblyReference.cache
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.csproj.CoreCompileInputs.cache
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.AssemblyInfoInputs.cache
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.AssemblyInfo.cs
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\bin\Debug\netcoreapp2.2\CountryArea.pdb
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.dll
+C:\Users\debojyoti\Desktop\CountryExtraction\CountryArea\CountryArea\obj\Debug\netcoreapp2.2\CountryArea.pdb

@@ -1,0 +1,8149 @@
+﻿[
+  {
+    "StateCity": "Agartala",
+    "Code": 381,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Agra",
+    "Code": 562,
+    "CountryId": 190
+  },
+
+  {
+    "StateCity": "Ahmedabad",
+    "Code": 79,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Aizawl",
+    "Code": 389,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ajmer",
+    "Code": 145,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Akbarpur",
+    "Code": 5271,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Akola",
+    "Code": 724,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Alappuzha",
+    "Code": 477,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Aligarh",
+    "Code": 571,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Alipore",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Alwar",
+    "Code": 144,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Amravati",
+    "Code": 721,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Amritsar",
+    "Code": 183,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Amroha",
+    "Code": 5922,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Anand",
+    "Code": 2692,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Anantapur",
+    "Code": 8554,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Anantnag",
+    "Code": 193,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Angul",
+    "Code": 6764,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Araria",
+    "Code": 6453,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Arrah",
+    "Code": 6182,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Asansol",
+    "Code": 341,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Auraiya",
+    "Code": 5683,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Aurangabad",
+    "Code": 2432,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Azamgarh",
+    "Code": 5462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Badaun",
+    "Code": 5832,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bagpat",
+    "Code": 1234,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Baharampur",
+    "Code": 3482,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bahraich",
+    "Code": 5252,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Balaghat",
+    "Code": 7632,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Balangir",
+    "Code": 6652,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Balasore",
+    "Code": 6782,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ballia",
+    "Code": 5498,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Balrampur",
+    "Code": 5263,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Balurghat",
+    "Code": 3522,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Banda",
+    "Code": 5192,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bangalore",
+    "Code": 80,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Banka",
+    "Code": 6424,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bankura",
+    "Code": 3242,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Banswara",
+    "Code": 2962,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barabanki",
+    "Code": 5248,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Baramulla",
+    "Code": 1952,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Baran",
+    "Code": 7453,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barasat",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barddhaman",
+    "Code": 342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bardhaman",
+    "Code": 342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bareilly",
+    "Code": 581,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bargarh",
+    "Code": 6646,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Baripada",
+    "Code": 6792,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barmer",
+    "Code": 2982,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barnala",
+    "Code": 1679,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Baroda",
+    "Code": 265,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Barwani",
+    "Code": 7290,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Basti",
+    "Code": 5542,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bathinda",
+    "Code": 164,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Beawar",
+    "Code": 1462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Beed",
+    "Code": 2442,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Begusarai",
+    "Code": 6243,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Berhampur",
+    "Code": 680,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bettiah",
+    "Code": 6254,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Betul",
+    "Code": 7141,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhabua",
+    "Code": 6189,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhadrachalam",
+    "Code": 8743,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhadrak",
+    "Code": 6784,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhagalpur",
+    "Code": 641,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhandara",
+    "Code": 7184,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bharatpur",
+    "Code": 5644,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bharuch",
+    "Code": 2642,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhavnagar",
+    "Code": 278,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhawanipatna",
+    "Code": 6670,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhilwara",
+    "Code": 1482,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhind",
+    "Code": 7534,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhinga",
+    "Code": 5250,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhopal",
+    "Code": 755,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhubaneshwar",
+    "Code": 674,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhubaneswar",
+    "Code": 674,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bhuj",
+    "Code": 2832,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bijnor",
+    "Code": 1342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bikaner",
+    "Code": 151,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bokaro Steel City",
+    "Code": 6542,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bombay",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Boudh",
+    "Code": 6841,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bulandshahr",
+    "Code": 5732,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Buldhana",
+    "Code": 7262,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Bundi",
+    "Code": 747,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Burhanpur",
+    "Code": 7325,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Buxar",
+    "Code": 6183,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Calcutta",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chandauli",
+    "Code": 5412,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chandigarh",
+    "Code": 172,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chandrapur",
+    "Code": 7172,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chennai",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chennai (formerly Madras)",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chennai (Madras)",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Cherrapunji",
+    "Code": 3637,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chhapra",
+    "Code": 6152,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chhatarpur",
+    "Code": 7682,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chhatrapur",
+    "Code": 6811,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chhindwara",
+    "Code": 7162,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chitrakuta",
+    "Code": 5194,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chittoor",
+    "Code": 8572,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Chittorgarh",
+    "Code": 8572,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Churu",
+    "Code": 1562,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Cochin (Kochi)",
+    "Code": 484,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Coimbator",
+    "Code": 422,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Coimbatore",
+    "Code": 422,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Cooch Behar",
+    "Code": 3582,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Cuddalore",
+    "Code": 4142,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Cuttack",
+    "Code": 671,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Daman",
+    "Code": 260,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Damoh",
+    "Code": 7638,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Darbhanga",
+    "Code": 6272,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Darjeeling",
+    "Code": 354,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Datia",
+    "Code": 7522,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dausa",
+    "Code": 1427,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Debagarh",
+    "Code": 6641,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dehra Dun",
+    "Code": 135,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dehradun",
+    "Code": 135,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Delhi",
+    "Code": 11,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Deogarh",
+    "Code": 6432,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Deoghar",
+    "Code": 6432,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Deoria",
+    "Code": 5568,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dewas",
+    "Code": 7272,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dhanbad",
+    "Code": 326,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dhar",
+    "Code": 7292,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dharmapuri",
+    "Code": 4342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dhenkanal",
+    "Code": 6762,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dholpur",
+    "Code": 5642,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dhule",
+    "Code": 2562,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dibrugarh",
+    "Code": 373,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dimapur",
+    "Code": 3862,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dindigul",
+    "Code": 451,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dispur",
+    "Code": 361,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Dungarpur",
+    "Code": 2964,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Eluru",
+    "Code": 8812,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Erode",
+    "Code": 424,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Etah",
+    "Code": 5742,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Etawah",
+    "Code": 5688,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Faizabad",
+    "Code": 5278,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Faridabad",
+    "Code": 129,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Faridkot",
+    "Code": 1639,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Fatehgarh",
+    "Code": 5692,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Fatehgarh Sahib",
+    "Code": 1763,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Fatehpur",
+    "Code": 5240,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Fathepur Sikri",
+    "Code": 5619,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Firozabad",
+    "Code": 5612,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Firozpur",
+    "Code": 1632,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gadchiroli",
+    "Code": 7132,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gandhinagar",
+    "Code": 2712,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ganganagar",
+    "Code": 154,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gangtok",
+    "Code": 3592,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gaya",
+    "Code": 631,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ghaziabad",
+    "Code": 120,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ghazipur",
+    "Code": 548,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Giridih",
+    "Code": 1933,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gonda",
+    "Code": 5262,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gondia",
+    "Code": 7182,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gopalganj",
+    "Code": 6156,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gorakhpur",
+    "Code": 551,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gumla",
+    "Code": 6524,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Guna",
+    "Code": 7542,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Guntur",
+    "Code": 863,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gurdaspur",
+    "Code": 1874,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gurgaon",
+    "Code": 124,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Guwahati",
+    "Code": 361,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gwalior",
+    "Code": 751,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Gyanpur",
+    "Code": 5414,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hajipur",
+    "Code": 6224,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Haldwani",
+    "Code": 5946,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hamirpur",
+    "Code": 5282,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hanumangarh",
+    "Code": 1552,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Harda",
+    "Code": 7577,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hardoi",
+    "Code": 5852,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Haridwar",
+    "Code": 1332,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hathras",
+    "Code": 5722,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hazaribagh",
+    "Code": 6546,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hingoli",
+    "Code": 2456,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hoshangabad",
+    "Code": 7574,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hoshiarpur",
+    "Code": 1882,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Howrah",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hugli-Chuchura",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Hyderabad",
+    "Code": 40,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Imphal",
+    "Code": 3852,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Indore",
+    "Code": 731,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Itanagar",
+    "Code": 360,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jabalpur",
+    "Code": 761,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jagatsinghpur",
+    "Code": 6724,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jaipur",
+    "Code": 141,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jaisalmer",
+    "Code": 2922,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jalandhar",
+    "Code": 181,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jalgaon",
+    "Code": 257,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jalna",
+    "Code": 2482,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jalore",
+    "Code": 2972,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jalpaiguri",
+    "Code": 3561,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jammu",
+    "Code": 191,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jamnagar",
+    "Code": 288,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jamshedpur",
+    "Code": 657,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jamui",
+    "Code": 6345,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jaunpur",
+    "Code": 5452,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jehanabad",
+    "Code": 6114,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jhabua",
+    "Code": 7392,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jhalawar",
+    "Code": 7432,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jhansi",
+    "Code": 510,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jharsuguda",
+    "Code": 6645,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jhunjhunu",
+    "Code": 1595,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jodhpur",
+    "Code": 291,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Jullundur",
+    "Code": 181,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Junagadh",
+    "Code": 285,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kalpetta",
+    "Code": 4936,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kanchipuram",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kannauj",
+    "Code": 5694,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kanpur",
+    "Code": 512,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kapurthala",
+    "Code": 1822,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Karauli",
+    "Code": 7464,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Karjat",
+    "Code": 2489,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Karur",
+    "Code": 4324,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kasaragod",
+    "Code": 494,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kathua",
+    "Code": 1922,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Katihar",
+    "Code": 6452,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Katni",
+    "Code": 7622,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kavaratti",
+    "Code": 4896,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kendrapara",
+    "Code": 6727,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kendujhar",
+    "Code": 6766,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Khagaria",
+    "Code": 6244,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Khalilabad",
+    "Code": 5547,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Khandwa",
+    "Code": 733,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kharagpur",
+    "Code": 3222,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Khargone",
+    "Code": 7282,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Khordha",
+    "Code": 6755,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kishanganj",
+    "Code": 6466,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kochi",
+    "Code": 484,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kohima",
+    "Code": 370,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kolhapur",
+    "Code": 231,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kolkata",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kolkata (Calcutta)",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kolkatta (formerly Calcutta)",
+    "Code": 33,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kollam",
+    "Code": 474,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Koraput",
+    "Code": 6852,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kota",
+    "Code": 744,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kottayam",
+    "Code": 481,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kozhikode",
+    "Code": 495,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Krishnagiri",
+    "Code": 4343,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Krishnanagar",
+    "Code": 3472,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Kulti",
+    "Code": 341,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Lakhimpur",
+    "Code": 5872,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Lakhisarai",
+    "Code": 6346,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Lalitpur",
+    "Code": 5176,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Latur",
+    "Code": 2382,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Lucknow",
+    "Code": 522,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ludhiana",
+    "Code": 161,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Madhepura",
+    "Code": 6476,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Madhubani",
+    "Code": 6276,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Madras",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Madurai",
+    "Code": 452,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Maharajganj",
+    "Code": 5523,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mahoba",
+    "Code": 5281,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mainpuri",
+    "Code": 5672,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Malda",
+    "Code": 3512,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Malkangiri",
+    "Code": 6861,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mandla",
+    "Code": 7642,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mandsaur",
+    "Code": 7422,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Manipal",
+    "Code": 8252,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Manjhanpur",
+    "Code": 5331,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mansa",
+    "Code": 1652,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Margao",
+    "Code": 8342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mathura",
+    "Code": 565,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mau",
+    "Code": 5195,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Meerut",
+    "Code": 121,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Midnapore",
+    "Code": 3222,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mirzapur",
+    "Code": 5442,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Moga",
+    "Code": 1636,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mohali",
+    "Code": 172,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Moradabad",
+    "Code": 591,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Morena",
+    "Code": 7532,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Motihari",
+    "Code": 6252,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mount Abu",
+    "Code": 2974,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Muktsar",
+    "Code": 1633,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mumbai",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mumbai (Bombay)",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mumbai (formerly Bombay )",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Munger",
+    "Code": 6344,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mussooree",
+    "Code": 1362,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Muzaffarnagar",
+    "Code": 131,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Muzaffarpur",
+    "Code": 621,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Mysore",
+    "Code": 821,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nabarangpur",
+    "Code": 685,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nadiad",
+    "Code": 268,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nagaon",
+    "Code": 3672,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nagapattinam",
+    "Code": 4365,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nagaur",
+    "Code": 1582,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nagercoil",
+    "Code": 4652,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nagpur",
+    "Code": 712,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nalanda",
+    "Code": 6119,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Namakkal",
+    "Code": 4286,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nanded",
+    "Code": 2462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nandurbar",
+    "Code": 2564,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Narsinghpur",
+    "Code": 7792,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nashik",
+    "Code": 253,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nasik",
+    "Code": 253,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Naugarh",
+    "Code": 5544,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Navi Mumbai",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Navsari",
+    "Code": 2637,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nawabganj",
+    "Code": 6324,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nawada",
+    "Code": 6324,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nawanshahr",
+    "Code": 1823,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nayagarh",
+    "Code": 6753,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Neemuch",
+    "Code": 7423,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "New Delhi",
+    "Code": 11,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "New Okhla Industrial Development Authority",
+    "Code": 120,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Nuapada",
+    "Code": 6678,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ootacamund",
+    "Code": 423,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Orai",
+    "Code": 5162,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Osmanabad",
+    "Code": 2472,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Padrauna",
+    "Code": 5564,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Painavu",
+    "Code": 486,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Palakkad",
+    "Code": 491,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pampore",
+    "Code": 1933,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panaji",
+    "Code": 832,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panchkula",
+    "Code": 172,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panipat",
+    "Code": 180,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panna",
+    "Code": 7732,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panskura",
+    "Code": 3228,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Panvel",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Paralakhemundi",
+    "Code": 6815,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Parbhani",
+    "Code": 2452,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pathanamthitta",
+    "Code": 468,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Patiala",
+    "Code": 175,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Patna",
+    "Code": 612,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Perambalur",
+    "Code": 4328,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Phulbani",
+    "Code": 6842,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pilibhit",
+    "Code": 5882,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ponnani",
+    "Code": 483,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Port Blair",
+    "Code": 3192,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pratapgarh",
+    "Code": 5342,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Puducherry",
+    "Code": 413,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pudukkottai",
+    "Code": 4322,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pune",
+    "Code": 20,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pune (formerly Poona)",
+    "Code": 20,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Puri",
+    "Code": 6752,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Purnia",
+    "Code": 6454,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Purulia",
+    "Code": 3252,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Pushkar",
+    "Code": 145,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rae Bareli",
+    "Code": 535,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Raebareli",
+    "Code": 535,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Raiganj",
+    "Code": 3523,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Raipur",
+    "Code": 771,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rajgarh",
+    "Code": 7372,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rajkot",
+    "Code": 281,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rajsamand",
+    "Code": 2952,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ramanathapuram",
+    "Code": 4567,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rampur",
+    "Code": 595,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ranchi",
+    "Code": 651,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ranthambhore Natl. Park",
+    "Code": 7462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ratlam",
+    "Code": 7412,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ratnagiri",
+    "Code": 2353,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rayagada",
+    "Code": 6856,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rewa",
+    "Code": 7662,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Robertsganj",
+    "Code": 5444,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Roorkee",
+    "Code": 1332,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rourkela",
+    "Code": 661,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Rupnagar",
+    "Code": 1881,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sagar",
+    "Code": 7582,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Saharanpur",
+    "Code": 132,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Saharsa",
+    "Code": 6478,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Samastipur",
+    "Code": 6274,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sambalpur",
+    "Code": 663,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sangli",
+    "Code": 233,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sangrur",
+    "Code": 1672,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sariska",
+    "Code": 144,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sasaram",
+    "Code": 6184,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Satara",
+    "Code": 2162,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Satna",
+    "Code": 7672,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sawai Madhopur",
+    "Code": 7462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sehore",
+    "Code": 7562,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Seoni",
+    "Code": 7692,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shahdol",
+    "Code": 7652,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shahjahanpur",
+    "Code": 5842,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shajapur",
+    "Code": 7364,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sheikhpura",
+    "Code": 6341,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sheohar",
+    "Code": 6222,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sheopur",
+    "Code": 7530,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shillong",
+    "Code": 364,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shimla",
+    "Code": 177,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Shivpuri",
+    "Code": 7492,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sibsagar",
+    "Code": 3772,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sidhi",
+    "Code": 7822,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sikar",
+    "Code": 1572,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Silchar",
+    "Code": 3842,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Silvassa",
+    "Code": 260,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Simla",
+    "Code": 177,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sindri",
+    "Code": 326,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sitamarhi",
+    "Code": 6226,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sitapur",
+    "Code": 5862,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sivaganga",
+    "Code": 4575,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Siwan",
+    "Code": 6154,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Solapur",
+    "Code": 217,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sonepur",
+    "Code": 6654,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sopore",
+    "Code": 1954,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Srinagar",
+    "Code": 194,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sultanpur",
+    "Code": 5362,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Sundergarh",
+    "Code": 6622,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Supaul",
+    "Code": 6473,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Surat",
+    "Code": 261,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Suri",
+    "Code": 3462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tamluk",
+    "Code": 3228,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tarn Taran Sahib",
+    "Code": 1852,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thalassery",
+    "Code": 490,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thane",
+    "Code": 22,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thanjavur",
+    "Code": 4362,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Theni",
+    "Code": 4546,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thiruvan",
+    "Code": 471,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thiruvananthapuram",
+    "Code": 471,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thiruvannaamalai",
+    "Code": 4175,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thoothukudi",
+    "Code": 461,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Thrissur",
+    "Code": 487,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tikamgarh",
+    "Code": 7683,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tinsukia",
+    "Code": 374,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tiruchirapalli",
+    "Code": 431,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tirumala",
+    "Code": 877,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tirunelveli",
+    "Code": 462,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tiruvallur",
+    "Code": 44,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tiruvarur",
+    "Code": 4366,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Tonk",
+    "Code": 1435,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Udaipur",
+    "Code": 294,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Udhampur",
+    "Code": 199,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Ujjain",
+    "Code": 734,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Unnao",
+    "Code": 515,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vadodara",
+    "Code": 265,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vadodara (Baroda)",
+    "Code": 265,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Varanasi",
+    "Code": 542,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vasco da Gama",
+    "Code": 832,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vellore",
+    "Code": 416,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vidisha",
+    "Code": 7592,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Vijayawada",
+    "Code": 866,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Viluppuram",
+    "Code": 4146,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Virudhunagar",
+    "Code": 4562,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Virudunagar",
+    "Code": 4562,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Visakhapatnam",
+    "Code": 891,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Warangal",
+    "Code": 870,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Wardha",
+    "Code": 7152,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Washim",
+    "Code": 7252,
+    "CountryId": 190
+  },
+  {
+    "StateCity": "Yavatmal",
+    "Code": 7232,
+    "CountryId": 190
+  },
+
+  {
+    "StateCity": "Aihui",
+    "Code": 456,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Akesu",
+    "Code": 997,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Ankang",
+    "Code": 915,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Anqing",
+    "Code": 556,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Anshan",
+    "Code": 412,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Anshun",
+    "Code": 853,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Anyang",
+    "Code": 372,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Baise",
+    "Code": 776,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Baoding",
+    "Code": 312,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Baoji",
+    "Code": 917,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Baotou",
+    "Code": 472,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Beihai",
+    "Code": 779,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Beijing",
+    "Code": 10,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Bengbu",
+    "Code": 552,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Benxi",
+    "Code": 414,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changbai",
+    "Code": 4458,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changchun",
+    "Code": 431,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changde",
+    "Code": 736,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changji",
+    "Code": 994,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changsha",
+    "Code": 731,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changshu",
+    "Code": 512,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Changzhou",
+    "Code": 519,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chaoyang",
+    "Code": 421,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chengde",
+    "Code": 314,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chengdu",
+    "Code": 28,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chifeng",
+    "Code": 476,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chongqing",
+    "Code": 23,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Chuxiong",
+    "Code": 878,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dali",
+    "Code": 872,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dalian",
+    "Code": 411,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dandong",
+    "Code": 415,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Daqing",
+    "Code": 459,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Datong",
+    "Code": 352,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dongfang",
+    "Code": 8003,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dunhua",
+    "Code": 4435,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Dunhuang",
+    "Code": 9473,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Erlianhaote",
+    "Code": 4813,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Fengcheng",
+    "Code": 7888,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Foshan",
+    "Code": 757,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Fuding",
+    "Code": 5033,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Fushun",
+    "Code": 413,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Fuyang",
+    "Code": 571,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Fuzhou",
+    "Code": 591,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Ganzhou",
+    "Code": 797,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Guang an",
+    "Code": 8269,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Guangzhou",
+    "Code": 20,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Guilin",
+    "Code": 773,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Guiyang",
+    "Code": 851,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Guyang",
+    "Code": 4823,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Haikou",
+    "Code": 898,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hailun",
+    "Code": 4652,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Haining",
+    "Code": 5834,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hami",
+    "Code": 9022,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hangzhou",
+    "Code": 571,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hanzhong",
+    "Code": 916,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Harbin",
+    "Code": 451,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hechi",
+    "Code": 778,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hefei",
+    "Code": 551,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Hohhot",
+    "Code": 471,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Huangshi",
+    "Code": 714,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Huizhou",
+    "Code": 752,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Huzhou",
+    "Code": 572,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jiangjin",
+    "Code": 8221,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jiangling",
+    "Code": 716,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jiangmen",
+    "Code": 750,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jilin",
+    "Code": 432,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jinan",
+    "Code": 531,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jingdezhen",
+    "Code": 798,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jining",
+    "Code": 537,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jinzhou",
+    "Code": 416,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jiujiang",
+    "Code": 792,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jiuquan",
+    "Code": 937,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Jixi",
+    "Code": 4617,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Kaifeng",
+    "Code": 378,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Kashi",
+    "Code": 998,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Kunming",
+    "Code": 871,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Lanxi",
+    "Code": 579,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Lanzhou",
+    "Code": 931,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Lhasa",
+    "Code": 891,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Liaoyang",
+    "Code": 419,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Lijing",
+    "Code": 5430,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Linhai",
+    "Code": 576,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Lintong",
+    "Code": 29,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Linxi",
+    "Code": 4868,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Linzhi",
+    "Code": 894,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Liuyang",
+    "Code": 731,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Liuzhou",
+    "Code": 772,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Luoyang",
+    "Code": 379,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Maoming",
+    "Code": 7683,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Meishan",
+    "Code": 8425,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Mianyang",
+    "Code": 816,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Miquan",
+    "Code": 9041,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Mohe",
+    "Code": 457,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Mudanjiang",
+    "Code": 467,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nanchang",
+    "Code": 791,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nanjing",
+    "Code": 25,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nanning",
+    "Code": 771,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nantong",
+    "Code": 513,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nanyang",
+    "Code": 377,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Nenjiang",
+    "Code": 4665,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Ningbo",
+    "Code": 574,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Pingliang",
+    "Code": 933,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Qingdao",
+    "Code": 532,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Qiqihar",
+    "Code": 452,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Qitai",
+    "Code": 994,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Quanzhou",
+    "Code": 595,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Qujiang",
+    "Code": 751,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Ruili",
+    "Code": 8885,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shanghai",
+    "Code": 21,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shantou",
+    "Code": 754,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shaoguan",
+    "Code": 751,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shaoxing",
+    "Code": 575,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shaoyang",
+    "Code": 739,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shenyang",
+    "Code": 24,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shenzhen",
+    "Code": 755,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shijiazhuang",
+    "Code": 311,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Shuangcheng",
+    "Code": 4615,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Siping",
+    "Code": 434,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Stanley",
+    "Code": 270,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Suifenhe",
+    "Code": 4638,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Tacheng",
+    "Code": 9003,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Taiyuan",
+    "Code": 351,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Tangshan",
+    "Code": 315,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Tianjin",
+    "Code": 22,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Tianshui",
+    "Code": 938,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Tongliao",
+    "Code": 475,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Urumqi",
+    "Code": 991,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Weifang",
+    "Code": 536,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Weinan",
+    "Code": 913,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Wenzhou",
+    "Code": 577,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Wudu",
+    "Code": 939,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Wuhan",
+    "Code": 27,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Wuhu",
+    "Code": 553,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Wuyishan",
+    "Code": 599,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xi an",
+    "Code": 29,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xiamen",
+    "Code": 592,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xiangtan",
+    "Code": 732,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xianyang",
+    "Code": 910,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xichang",
+    "Code": 834,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xin an",
+    "Code": 5482,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xining",
+    "Code": 971,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xinjin",
+    "Code": 971,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xinxiang",
+    "Code": 373,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xinyang",
+    "Code": 373,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xinyi",
+    "Code": 859,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Xuzhou",
+    "Code": 516,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Ya An",
+    "Code": 835,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yan An",
+    "Code": 911,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yangquan",
+    "Code": 353,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yangzhou",
+    "Code": 514,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yanji",
+    "Code": 433,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yibin",
+    "Code": 831,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yinchuan",
+    "Code": 951,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yingkou",
+    "Code": 417,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yining",
+    "Code": 999,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yiwu",
+    "Code": 579,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yiyang",
+    "Code": 7038,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yongchuan",
+    "Code": 814,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yuanmou",
+    "Code": 8869,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yueyang",
+    "Code": 730,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yulin",
+    "Code": 912,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Yushu",
+    "Code": 976,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhangjiakou",
+    "Code": 313,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhangzhou",
+    "Code": 596,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhanjiang",
+    "Code": 759,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhengzhou",
+    "Code": 371,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhenjiang",
+    "Code": 511,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhijiang",
+    "Code": 7420,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zhumadian",
+    "Code": 3011,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zibo",
+    "Code": 533,
+    "CountryId": 132
+  },
+  {
+    "StateCity": "Zunyi",
+    "Code": 852,
+    "CountryId": 132
+  },
+
+  {
+    "StateCity": "Baghlan",
+    "Code": 58,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Balkh",
+    "Code": 50,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Bamyan",
+    "Code": 27,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Ghazni",
+    "Code": 31,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Heart",
+    "Code": 40,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Herat",
+    "Code": 40,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Jalalabad",
+    "Code": 60,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Kabul",
+    "Code": 20,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Kandahar",
+    "Code": 30,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Kunduz",
+    "Code": 51,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Mazar",
+    "Code": 50,
+    "CountryId": 152
+  },
+  {
+    "StateCity": "Mazari Sharif",
+    "Code": 50,
+    "CountryId": 152
+  },
+
+  {
+    "StateCity": "Cabinda",
+    "Code": 31,
+    "CountryId": 153
+  },
+  {
+    "StateCity": "Caxito",
+    "Code": 34,
+    "CountryId": 153
+  },
+  {
+    "StateCity": "Luanda",
+    "Code": 2,
+    "CountryId": 153
+  },
+
+  {
+    "StateCity": "Babicë",
+    "Code": 394,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Bajram Curri",
+    "Code": 213,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Bajzë",
+    "Code": 211,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Ballsh",
+    "Code": 313,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Berat",
+    "Code": 32,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Bilisht",
+    "Code": 811,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Bulqizë",
+    "Code": 219,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Burrel",
+    "Code": 217,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Cakran",
+    "Code": 387,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Çërrik",
+    "Code": 581,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Çorovodë",
+    "Code": 312,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Delvinë",
+    "Code": 815,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Divjakë",
+    "Code": 371,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Durrës",
+    "Code": 52,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Elbasan",
+    "Code": 545,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Ersekë",
+    "Code": 812,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Fier",
+    "Code": 34,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Fushë",
+    "Code": 563,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Gjirokastër",
+    "Code": 84,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Gramsh",
+    "Code": 513,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Himarë",
+    "Code": 393,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Kavajë",
+    "Code": 554,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Koplik",
+    "Code": 211,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Korçë",
+    "Code": 82,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Krujë",
+    "Code": 511,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Krumë",
+    "Code": 214,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Ksamil",
+    "Code": 893,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Kuçovë",
+    "Code": 311,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Kukës",
+    "Code": 242,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Laç",
+    "Code": 53,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Levan",
+    "Code": 388,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Lezhë",
+    "Code": 215,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Libohovë",
+    "Code": 881,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Librazhd",
+    "Code": 514,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Lushnjë",
+    "Code": 35,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Maliq",
+    "Code": 861,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Mamurras",
+    "Code": 561,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Memaliaj",
+    "Code": 885,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Orikum",
+    "Code": 391,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Peqin",
+    "Code": 512,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Përmet",
+    "Code": 813,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Përrenjas",
+    "Code": 591,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Peshkopi",
+    "Code": 218,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Pogradec",
+    "Code": 832,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Poliçan",
+    "Code": 368,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Pukë",
+    "Code": 212,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Rrëshen",
+    "Code": 216,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Rrogozhinë",
+    "Code": 577,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Sarandë",
+    "Code": 852,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Selenicë",
+    "Code": 392,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Shijak",
+    "Code": 571,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Shkoder",
+    "Code": 22,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Tepelenë",
+    "Code": 814,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Tirana",
+    "Code": 4,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Tirane",
+    "Code": 4,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Tropojë",
+    "Code": 213,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Ura Vajgurore",
+    "Code": 361,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Vlorë",
+    "Code": 33,
+    "CountryId": 155
+  },
+  {
+    "StateCity": "Vodafone",
+    "Code": 69,
+    "CountryId": 155
+  },
+
+  {
+    "StateCity": "Bandar Seri Begawan",
+    "Code": 2,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "Bonaire",
+    "Code": 7,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "Curacao",
+    "Code": 9,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "Saba",
+    "Code": 4,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "St. Eustatius",
+    "Code": 3,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "St. Maarten",
+    "Code": 5,
+    "CountryId": 157
+  },
+  {
+    "StateCity": "Willemstad",
+    "Code": 9,
+    "CountryId": 157
+  },
+
+  {
+    "StateCity": "Abu Dhabi",
+    "Code": 2,
+    "CountryId": 158
+  },
+  {
+    "StateCity": "Ajman",
+    "Code": 6,
+    "CountryId": 158
+  },
+  {
+    "StateCity": "Dubai",
+    "Code": 4,
+    "CountryId": 158
+  },
+  {
+    "StateCity": "Sharjah",
+    "Code": 6,
+    "CountryId": 158
+  },
+
+  {
+    "StateCity": "Bahía Blanca",
+    "Code": 291,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Buenos Aires",
+    "Code": 11,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Comodoro Rivadavia",
+    "Code": 297,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Concordia",
+    "Code": 345,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Córdoba",
+    "Code": 351,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Corrientes",
+    "Code": 3783,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Formosa",
+    "Code": 3717,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Jesús María",
+    "Code": 3525,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Junín",
+    "Code": 2362,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "La Plata",
+    "Code": 221,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "La Rioja",
+    "Code": 3822,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Mar del Plata",
+    "Code": 223,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Mendoza",
+    "Code": 261,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Mercedes",
+    "Code": 2324,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Neuquén",
+    "Code": 299,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Paraná",
+    "Code": 343,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Posadas",
+    "Code": 3752,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Resistencia",
+    "Code": 3722,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Río Cuarto",
+    "Code": 358,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Río Gallegos",
+    "Code": 2966,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Rosario",
+    "Code": 341,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Salta",
+    "Code": 387,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Francisco",
+    "Code": 628,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Juan",
+    "Code": 264,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Luis",
+    "Code": 2652,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Martín",
+    "Code": 408,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Nicolás de los Arroyos",
+    "Code": 3461,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Pedro",
+    "Code": 424,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "San Rafael",
+    "Code": 2627,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Santa Fe",
+    "Code": 342,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Santa Rosa",
+    "Code": 2954,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Santiago del Estero",
+    "Code": 385,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Santo Tomé",
+    "Code": 3756,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Tandil",
+    "Code": 2293,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Trelew/Rawson",
+    "Code": 2965,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Ushuaia",
+    "Code": 2901,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Viedma",
+    "Code": 2920,
+    "CountryId": 159
+  },
+  {
+    "StateCity": "Zárate",
+    "Code": 3487,
+    "CountryId": 159
+  },
+
+  {
+    "StateCity": "Abovian",
+    "Code": 22,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Abovyan",
+    "Code": 22,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Akhurian",
+    "Code": 43,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Alapars",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Alaverdi",
+    "Code": 53,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Amasia",
+    "Code": 46,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Aparan",
+    "Code": 52,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Arapi",
+    "Code": 43,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Argel",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Artashat",
+    "Code": 35,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Artik",
+    "Code": 44,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Ashotsk",
+    "Code": 45,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Ashtarak",
+    "Code": 32,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Baghramian",
+    "Code": 33,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Bjni",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Chambarak",
+    "Code": 65,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Charentsavan",
+    "Code": 26,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Dalarik",
+    "Code": 33,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Dzoraget",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Echmiadzin",
+    "Code": 31,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Eghegnut",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Eghvard",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Gavar",
+    "Code": 64,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Goris",
+    "Code": 84,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Gyumri",
+    "Code": 41,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Hoktember",
+    "Code": 37,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Hrazdan",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Ijevan",
+    "Code": 63,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Jermuk",
+    "Code": 87,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Kadjaran",
+    "Code": 85,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Kamo",
+    "Code": 43,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Kapan",
+    "Code": 85,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Karakerd",
+    "Code": 33,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Khndzoresk",
+    "Code": 84,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Koghb",
+    "Code": 66,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Lermontov",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Maralik",
+    "Code": 42,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Margahovit",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Martuni",
+    "Code": 62,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Masis",
+    "Code": 36,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Meghradzor",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Meghri",
+    "Code": 86,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Metsamor",
+    "Code": 37,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Miasnikian",
+    "Code": 33,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Nor Gekhi",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Nor Hajn",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Noyemberian",
+    "Code": 66,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Pambak",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Pernzashen",
+    "Code": 44,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Piunik",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Proshyan",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Ptghni",
+    "Code": 22,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Sarnakhpyur",
+    "Code": 42,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Sarukhan",
+    "Code": 64,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Sevan",
+    "Code": 61,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Shirakavan",
+    "Code": 42,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Sisian",
+    "Code": 83,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Solak",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Spitak",
+    "Code": 55,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Stepanavan",
+    "Code": 56,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Talin",
+    "Code": 49,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Tashir",
+    "Code": 54,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Tsaghkahovit",
+    "Code": 57,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Tsakhkadzor",
+    "Code": 23,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Vahagni",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Vanadzor",
+    "Code": 51,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Vardenis",
+    "Code": 69,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Vayk",
+    "Code": 82,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Vedi",
+    "Code": 34,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Verishen",
+    "Code": 84,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Yeghegnadzor",
+    "Code": 81,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Yerevan",
+    "Code": 1,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Zovuni",
+    "Code": 24,
+    "CountryId": 160
+  },
+  {
+    "StateCity": "Zvartnots",
+    "Code": 31,
+    "CountryId": 160
+  },
+
+  {
+    "StateCity": "Adelaide",
+    "Code": 8,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Albury",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Alice Springs",
+    "Code": 8,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Ballarat",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Bendigo",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Brisbane",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Bunbury",
+    "Code": 8,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Bundaberg",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Cairns",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Canberra",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Coffs Harbour",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Darwin",
+    "Code": 8,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Forrest",
+    "Code": 815,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Geelong",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Gibson",
+    "Code": 706,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Gold Coast",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Hamilton",
+    "Code": 620,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Hobart",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Kingston",
+    "Code": 770,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Launceston",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Mackay",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Macquarie Island",
+    "Code": 13,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Marion",
+    "Code": 765,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Melbourne",
+    "Code": 3,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Newcastle",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Perth",
+    "Code": 8,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Portland",
+    "Code": 207,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Richmond",
+    "Code": 765,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Rockhampton",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Sydney",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Townsville",
+    "Code": 7,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Warwick",
+    "Code": 229,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Wollongong",
+    "Code": 2,
+    "CountryId": 178
+  },
+  {
+    "StateCity": "Young",
+    "Code": 928,
+    "CountryId": 178
+  },
+
+  {
+    "StateCity": "Graz",
+    "Code": 316,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Innsbruck",
+    "Code": 512,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Klagenfurt",
+    "Code": 463,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Linz",
+    "Code": 70,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Salzburg",
+    "Code": 662,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Vienna",
+    "Code": 1,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Wels",
+    "Code": 7242,
+    "CountryId": 166
+  },
+  {
+    "StateCity": "Wiener Neustadt",
+    "Code": 2622,
+    "CountryId": 166
+  },
+
+  {
+    "StateCity": "Agdam",
+    "Code": 192,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Agdash",
+    "Code": 193,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Agdjabedi",
+    "Code": 113,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Agstafa",
+    "Code": 244,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Agsu",
+    "Code": 198,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Ali",
+    "Code": 197,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Astara",
+    "Code": 195,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Baku",
+    "Code": 12,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Balaken",
+    "Code": 119,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Barda",
+    "Code": 110,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Beylagan",
+    "Code": 152,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Bilesuvar",
+    "Code": 159,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Dashkesan",
+    "Code": 216,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Devechi",
+    "Code": 115,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Djalilabad",
+    "Code": 114,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Eizuli",
+    "Code": 141,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Gabala",
+    "Code": 160,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Gakh",
+    "Code": 144,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Gazakh",
+    "Code": 279,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Geokchay",
+    "Code": 167,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Geranboy",
+    "Code": 234,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Gobustan",
+    "Code": 150,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Guba",
+    "Code": 169,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Gyandia",
+    "Code": 22,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Hachmaz",
+    "Code": 172,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Hadjigabul",
+    "Code": 140,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Hanlar",
+    "Code": 230,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Hizi",
+    "Code": 199,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Imishli",
+    "Code": 154,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Ismayilli",
+    "Code": 178,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Kedabek",
+    "Code": 232,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Kusari",
+    "Code": 138,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Kyurdamir",
+    "Code": 145,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Lankaran",
+    "Code": 171,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Lenkaran",
+    "Code": 171,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Lerik",
+    "Code": 157,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Masalli",
+    "Code": 151,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Mingechevir",
+    "Code": 147,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Mobile Phones",
+    "Code": 50,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Naftalan",
+    "Code": 255,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Nahichevan",
+    "Code": 136,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Nakhichevan",
+    "Code": 136,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Neftechala",
+    "Code": 153,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Oguz",
+    "Code": 111,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Saatli",
+    "Code": 168,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Sabirabad",
+    "Code": 143,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Salyan",
+    "Code": 163,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Samukh",
+    "Code": 265,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Shamaha",
+    "Code": 176,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Shamkir",
+    "Code": 241,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Sheki",
+    "Code": 177,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Siyazan",
+    "Code": 190,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Sumgayit",
+    "Code": 164,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Ter",
+    "Code": 246,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Tovuz",
+    "Code": 231,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Udjar",
+    "Code": 170,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Yardimli",
+    "Code": 175,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Yevlakh",
+    "Code": 166,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Zagatala",
+    "Code": 174,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Zakatala",
+    "Code": 174,
+    "CountryId": 167
+  },
+  {
+    "StateCity": "Zardab",
+    "Code": 135,
+    "CountryId": 167
+  },
+
+  {
+    "StateCity": "Bujumbura",
+    "Code": 2,
+    "CountryId": 168
+  },
+
+  {
+    "StateCity": "Aalst (Alost)",
+    "Code": 53,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Anderlecht",
+    "Code": 2,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Antwerp",
+    "Code": 3,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Arlon",
+    "Code": 63,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Ath",
+    "Code": 67,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Bruges",
+    "Code": 50,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Brugge (Bruges)",
+    "Code": 50,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Brussels",
+    "Code": 2,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Charleroi",
+    "Code": 71,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Chimay",
+    "Code": 60,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Ciney",
+    "Code": 83,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Dendermonde",
+    "Code": 52,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Diest",
+    "Code": 13,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Dinant",
+    "Code": 82,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Durbuy",
+    "Code": 86,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Genk",
+    "Code": 89,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Gent",
+    "Code": 9,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Ghent",
+    "Code": 9,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Hasselt",
+    "Code": 11,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Herentals",
+    "Code": 14,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Huy (Hoei)",
+    "Code": 85,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "La Louvière",
+    "Code": 64,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Leuven",
+    "Code": 16,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Leuven (Louvain)",
+    "Code": 16,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Libramont",
+    "Code": 61,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Liege",
+    "Code": 4,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Liège (Luik)",
+    "Code": 4,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Mechelen",
+    "Code": 15,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Mechelen (Malines)",
+    "Code": 15,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Mons",
+    "Code": 65,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Mons (Bergen)",
+    "Code": 65,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Namur",
+    "Code": 81,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Namur (Namen)",
+    "Code": 81,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Nieuwpoort (Nieuport)",
+    "Code": 58,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Ninove",
+    "Code": 54,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Nivelles (Nijvel)",
+    "Code": 67,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Oostende",
+    "Code": 59,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Roeselare (Roulers)",
+    "Code": 51,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Ronse",
+    "Code": 55,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Stavelot",
+    "Code": 80,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Tongeren (Tongres)",
+    "Code": 12,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Tounai",
+    "Code": 69,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Turnhout",
+    "Code": 14,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Verviers",
+    "Code": 87,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Veurne",
+    "Code": 58,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Wareme",
+    "Code": 19,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Wavre (Waver)",
+    "Code": 10,
+    "CountryId": 169
+  },
+  {
+    "StateCity": "Zeebrugge",
+    "Code": 50,
+    "CountryId": 169
+  },
+
+  {
+    "StateCity": "Alamdanga",
+    "Code": 7622,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Ashugonj",
+    "Code": 8528,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Avaynagar (Noapara)",
+    "Code": 4222,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Badargonj",
+    "Code": 5222,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bagerhat",
+    "Code": 468,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Banaripara",
+    "Code": 4332,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bandarban",
+    "Code": 361,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Banshkhali",
+    "Code": 3037,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Barguna",
+    "Code": 448,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Barisal",
+    "Code": 431,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bauphal",
+    "Code": 4422,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bazitpur",
+    "Code": 9423,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bhairab",
+    "Code": 9424,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bhandaria",
+    "Code": 4623,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bheramara",
+    "Code": 7022,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bhola",
+    "Code": 491,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Bogra",
+    "Code": 51,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Brahmanbaria",
+    "Code": 851,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chandpur",
+    "Code": 841,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chandraghona (Kaptai)",
+    "Code": 3529,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chaudagram",
+    "Code": 8034,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chhatak",
+    "Code": 8723,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chittagong",
+    "Code": 31,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Chuadanga",
+    "Code": 761,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Comilla",
+    "Code": 81,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Companigon (Bashurhat)",
+    "Code": 3223,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Cox's Bazar",
+    "Code": 341,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Daudkandi",
+    "Code": 8023,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Daulatpur",
+    "Code": 7023,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Dhaka",
+    "Code": 2,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Dinajpur",
+    "Code": 531,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Faridpur",
+    "Code": 631,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Feni",
+    "Code": 331,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Fulbari",
+    "Code": 5327,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Gaibandha",
+    "Code": 541,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Galachipa",
+    "Code": 4424,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Gazipur",
+    "Code": 681,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Ghatail",
+    "Code": 9225,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Goalanda",
+    "Code": 6423,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Gopalgonj",
+    "Code": 423,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Hajigonj",
+    "Code": 8424,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Hatiya (Oshkhali)",
+    "Code": 3224,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Hobigonj",
+    "Code": 831,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Ishwardi",
+    "Code": 732,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Jamalpur",
+    "Code": 981,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Jessore",
+    "Code": 421,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Jhalokathhi",
+    "Code": 498,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Jhenaidah",
+    "Code": 451,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Jhikargacha",
+    "Code": 4225,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Joypurhat",
+    "Code": 571,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Kalaroa",
+    "Code": 4724,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Kanaighat",
+    "Code": 8233,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Khagrachhari",
+    "Code": 371,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Khepupara",
+    "Code": 4425,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Khulna",
+    "Code": 41,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Kishoregonj",
+    "Code": 941,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Kurigram",
+    "Code": 581,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Kustia",
+    "Code": 71,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Laksham (Daulatgonj)",
+    "Code": 8032,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Lakshmipur",
+    "Code": 381,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Lalmonirhat",
+    "Code": 591,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Madaripur",
+    "Code": 661,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Magura",
+    "Code": 488,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Manikgonj",
+    "Code": 651,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mathabdi",
+    "Code": 6257,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Meherpur",
+    "Code": 791,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mithamain",
+    "Code": 9435,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mohanganj",
+    "Code": 9524,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Moheshkhali",
+    "Code": 3424,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mongla",
+    "Code": 402,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mongla New Port",
+    "Code": 4662,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Moulavibazar",
+    "Code": 861,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Muktagacha",
+    "Code": 9028,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Muladi",
+    "Code": 4326,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Munshigonj",
+    "Code": 691,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Mymensingh",
+    "Code": 91,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Nabinagar",
+    "Code": 8525,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Nagarpur",
+    "Code": 9233,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Naogaon",
+    "Code": 741,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Narail",
+    "Code": 481,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Narsingdi",
+    "Code": 628,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Natore",
+    "Code": 771,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Nawabgonj (Chapai)",
+    "Code": 781,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Netrokona",
+    "Code": 951,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Nilphamari",
+    "Code": 551,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Noakhali",
+    "Code": 321,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Pabna",
+    "Code": 731,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Paikgacha",
+    "Code": 4027,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Palash (Ghorashal)",
+    "Code": 6254,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Panchagar",
+    "Code": 568,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Parbatipur",
+    "Code": 5334,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Patuakhali",
+    "Code": 441,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Perojpur",
+    "Code": 461,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Plulpur",
+    "Code": 9033,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Potiya",
+    "Code": 3035,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Rajbari",
+    "Code": 641,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Rajshahi",
+    "Code": 721,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Ramgoti (Char Alexander)",
+    "Code": 3823,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Rangamati",
+    "Code": 351,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Rangpur",
+    "Code": 521,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Saidpur",
+    "Code": 5526,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sarsha (Benapol)",
+    "Code": 4228,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Satkania",
+    "Code": 3036,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Satkhira",
+    "Code": 471,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Savar",
+    "Code": 2,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Shariatpur",
+    "Code": 601,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sherpur",
+    "Code": 931,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Shibganj",
+    "Code": 5033,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sirajgonj",
+    "Code": 751,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sitakundu (Barabkundu)",
+    "Code": 3028,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Srimangol",
+    "Code": 8626,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sunamgonj",
+    "Code": 871,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Syedpur",
+    "Code": 552,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Sylhet",
+    "Code": 821,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Taherpur",
+    "Code": 8732,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Tangail",
+    "Code": 921,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Thakurgaon",
+    "Code": 561,
+    "CountryId": 172
+  },
+  {
+    "StateCity": "Ukhia",
+    "Code": 3427,
+    "CountryId": 172
+  },
+
+  {
+    "StateCity": "Blagoevgrad",
+    "Code": 73,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Bourgas",
+    "Code": 56,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Dobritch",
+    "Code": 58,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Gabrovo",
+    "Code": 66,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Gotse Delchev",
+    "Code": 751,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Haskovo",
+    "Code": 38,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Kardjali",
+    "Code": 361,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Kazanluk",
+    "Code": 431,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Kjustendil",
+    "Code": 78,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Lovech",
+    "Code": 68,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Lovetch",
+    "Code": 68,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Mobile Phones",
+    "Code": 89,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Montana",
+    "Code": 96,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Pazardjik",
+    "Code": 34,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Pernik",
+    "Code": 76,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Pleven",
+    "Code": 64,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Plovdiv",
+    "Code": 32,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Razgrad",
+    "Code": 84,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Rousse",
+    "Code": 82,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Ruse",
+    "Code": 82,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Shoumen",
+    "Code": 54,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Silistra",
+    "Code": 86,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Sliven",
+    "Code": 44,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Smolyan",
+    "Code": 301,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Sofia",
+    "Code": 2,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Stara Zagora",
+    "Code": 42,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Targovishte",
+    "Code": 601,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Varna",
+    "Code": 52,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Veliko Tarnovo",
+    "Code": 62,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Vidin",
+    "Code": 94,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Vratsa",
+    "Code": 92,
+    "CountryId": 173
+  },
+  {
+    "StateCity": "Yambol",
+    "Code": 46,
+    "CountryId": 173
+  },
+
+  {
+    "StateCity": "Brest",
+    "Code": 16,
+    "CountryId": 177
+  },
+  {
+    "StateCity": "Gomel",
+    "Code": 2322,
+    "CountryId": 177
+  },
+  {
+    "StateCity": "Grodno",
+    "Code": 1511,
+    "CountryId": 177
+  },
+  {
+    "StateCity": "Minsk",
+    "Code": 17,
+    "CountryId": 177
+  },
+  {
+    "StateCity": "Mogilev",
+    "Code": 222,
+    "CountryId": 177
+  },
+
+
+  {
+    "StateCity": "Belize City",
+    "Code": 2,
+    "CountryId": 151
+  },
+  {
+    "StateCity": "Belmopan",
+    "Code": 8,
+    "CountryId": 151
+  },
+
+  {
+    "StateCity": "Bermejo",
+    "Code": 4,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Cobija",
+    "Code": 3,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Cochabamba",
+    "Code": 4,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Guayaramerín",
+    "Code": 3,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "La Paz",
+    "Code": 2,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Oruro",
+    "Code": 2,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Potosi",
+    "Code": 2,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Riberalta",
+    "Code": 3,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Sucre",
+    "Code": 4,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Tarija",
+    "Code": 4,
+    "CountryId": 150
+  },
+  {
+    "StateCity": "Trinidad",
+    "Code": 3,
+    "CountryId": 150
+  },
+
+  {
+    "StateCity": "Alagoinhas",
+    "Code": 75,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Alexandria",
+    "Code": 859,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Anápolis",
+    "Code": 62,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Aracaju",
+    "Code": 79,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Araguaina",
+    "Code": 63,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Barreiras",
+    "Code": 77,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Bauru",
+    "Code": 14,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Belém",
+    "Code": 91,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Belo Horizonte",
+    "Code": 31,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Blumenau",
+    "Code": 47,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Boa Vista",
+    "Code": 95,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Brasilia",
+    "Code": 61,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Campina Grande",
+    "Code": 83,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Campinas",
+    "Code": 19,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Campo Grande",
+    "Code": 67,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Campos",
+    "Code": 22,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Caruaru",
+    "Code": 81,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Caxias do Sul",
+    "Code": 54,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Cuiaba",
+    "Code": 65,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Curitiba",
+    "Code": 41,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Feira de Santana",
+    "Code": 75,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Fernando de Noronha",
+    "Code": 81,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Florianopolis",
+    "Code": 48,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Fortaleza",
+    "Code": 85,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Garanhuns",
+    "Code": 81,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Goiania",
+    "Code": 62,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Governador Valadares",
+    "Code": 33,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Ilheus",
+    "Code": 73,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Itabuna",
+    "Code": 73,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Jequie",
+    "Code": 73,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Joao Pessoa",
+    "Code": 83,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Joinville",
+    "Code": 47,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Juazeiro do Norte",
+    "Code": 74,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Juiz de Fora",
+    "Code": 32,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Londrina",
+    "Code": 43,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Macapa",
+    "Code": 96,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Maceio",
+    "Code": 82,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Manaus",
+    "Code": 92,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Medina",
+    "Code": 830,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Montes Claros",
+    "Code": 38,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Montezuma",
+    "Code": 478,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Mossoro",
+    "Code": 84,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Natal",
+    "Code": 84,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Niteroi",
+    "Code": 21,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Palmas",
+    "Code": 63,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Panama",
+    "Code": 712,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Parnaiba",
+    "Code": 86,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Passo Fundo",
+    "Code": 54,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Pelotas",
+    "Code": 532,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Ponta Grossa",
+    "Code": 42,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Porto Alegre",
+    "Code": 51,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Porto Velho",
+    "Code": 69,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Recife",
+    "Code": 81,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Ribeirão Preto",
+    "Code": 16,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Rio Branco",
+    "Code": 68,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Rio de Janeiro",
+    "Code": 21,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Rio Grande",
+    "Code": 53,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Sacramento",
+    "Code": 916,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Salinas",
+    "Code": 408,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Salvador",
+    "Code": 71,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santa Cruz",
+    "Code": 831,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santa Fe",
+    "Code": 505,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santa Maria",
+    "Code": 34,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santa Rosa",
+    "Code": 707,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santo André",
+    "Code": 11,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Santos",
+    "Code": 13,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "São Jose do Rio Preto",
+    "Code": 17,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "São Jose dos Campos",
+    "Code": 12,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "São Luis",
+    "Code": 98,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "São Paulo",
+    "Code": 11,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Sobral",
+    "Code": 88,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Sorocaba",
+    "Code": 15,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Teofilo Otoni",
+    "Code": 33,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Teresina",
+    "Code": 86,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Timbo",
+    "Code": 870,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Uberaba",
+    "Code": 34,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Uberlandia",
+    "Code": 34,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Uruguaiana",
+    "Code": 55,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Valparaiso",
+    "Code": 850,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Vitoria",
+    "Code": 27,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Vitoria da Conquista",
+    "Code": 77,
+    "CountryId": 134
+  },
+  {
+    "StateCity": "Volta Redonda",
+    "Code": 24,
+    "CountryId": 134
+  },
+
+  {
+    "StateCity": "Brunei International Airport",
+    "Code": 2,
+    "CountryId": 123
+  },
+  {
+    "StateCity": "Kuala Belait",
+    "Code": 3,
+    "CountryId": 123
+  },
+
+  {
+    "StateCity": "Bangtar DAMA",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Basochu",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Chapcha",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Chargary",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Chumey",
+    "Code": 3,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Dagana",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Dagapela",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Daifam DAMA",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Damphu DAMA",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Dechencholing",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Deothang",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Drujegang",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Drukgyel Dzong",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Gasa",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Gedu/Tala/Padechu/ Sinchekha",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Gelephu",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Gelpoyshing",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Gomtu",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Ha",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Ha (Damthang)",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Jakar",
+    "Code": 3,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Kanglung",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Khaling",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Kharsadrapchu",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Lhamoi Zingkha",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Lhuntse",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Lingshi DAMA",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Lodrai",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Mongar",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Nganglam",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Nganglam DAMA",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "P/Gatshel",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "P/Gatshel DAMA",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Panbang DAMA",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Paro",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Pasakha",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Phuntsholing",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Punakha",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Rangjung",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "S/Jongkhar",
+    "Code": 7,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Sakteng DAMA",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Samtse",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Sarpang",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Shaba",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Sibsoo",
+    "Code": 5,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Simtokha",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Suray",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Taba",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Tangmachu",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Thimphu",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Tingtibi",
+    "Code": 3,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Trashi Yangtse",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Trashigang",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Trongsa",
+    "Code": 3,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Tsenkharla",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Tsimasham",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Tsirang (Damphu)",
+    "Code": 6,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Wamrong",
+    "Code": 4,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Wangdue",
+    "Code": 2,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Wangkha",
+    "Code": 8,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Zhemgang",
+    "Code": 3,
+    "CountryId": 124
+  },
+  {
+    "StateCity": "Zhemgang DAMA",
+    "Code": 3,
+    "CountryId": 124
+  },
+
+  {
+    "StateCity": "Francistown",
+    "Code": 24,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Gaborone",
+    "Code": 31,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Ghanzi",
+    "Code": 65,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Jwaneng",
+    "Code": 58,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Kasane",
+    "Code": 62,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Letlhakane",
+    "Code": 29,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Mahalapye",
+    "Code": 47,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Maun",
+    "Code": 68,
+    "CountryId": 126
+  },
+  {
+    "StateCity": "Selebi Phikwe",
+    "Code": 26,
+    "CountryId": 126
+  },
+
+  {
+    "StateCity": "Ontario  ",
+    "Code": 909,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Montreal  ",
+    "Code": 514,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Vancouver  ",
+    "Code": 604,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Edmonton",
+    "Code": 780,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Victoria",
+    "Code": 250,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Dawson Creek",
+    "Code": 250,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Goose Bay",
+    "Code": 709,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Winnipeg",
+    "Code": 204,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Fredericton",
+    "Code": 506,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "St. John s",
+    "Code": 709,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Yellowknife",
+    "Code": 867,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Halifax",
+    "Code": 902,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Iqaluit",
+    "Code": 867,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Toronto",
+    "Code": 416,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Thunder Bay",
+    "Code": 807,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Charlottetown",
+    "Code": 902,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Quebec City",
+    "Code": 418,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Blanc Sablon",
+    "Code": 418,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Regina",
+    "Code": 306,
+    "CountryId": 128
+  },
+  {
+    "StateCity": "Whitehorse",
+    "Code": 867,
+    "CountryId": 128
+  },
+
+  {
+    "StateCity": "Ammerswil (Aarau)",
+    "Code": 62,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Andermatt",
+    "Code": 41,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Arosa",
+    "Code": 81,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Baden",
+    "Code": 56,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Basel",
+    "Code": 61,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Basel Stadt",
+    "Code": 61,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Bellinzona",
+    "Code": 91,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Bern",
+    "Code": 31,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Berne",
+    "Code": 31,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Biel",
+    "Code": 32,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Biel (Bienne)",
+    "Code": 32,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Bienne",
+    "Code": 32,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Chiasso",
+    "Code": 91,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Crans",
+    "Code": 27,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Davos",
+    "Code": 81,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Fribourg",
+    "Code": 26,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Geneva",
+    "Code": 22,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Gryon (Yverdon",
+    "Code": 24,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Gstaad",
+    "Code": 33,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Interlaken",
+    "Code": 33,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Klosters",
+    "Code": 81,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "La Chaux",
+    "Code": 32,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Lausanne",
+    "Code": 21,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Lenk im Simmental",
+    "Code": 33,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Locarno",
+    "Code": 91,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Lucerne",
+    "Code": 41,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Lugano",
+    "Code": 91,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Montreux",
+    "Code": 21,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Neuchâtel",
+    "Code": 32,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Obewil im Simmental",
+    "Code": 33,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Schaffhausen",
+    "Code": 52,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "St. Gallen",
+    "Code": 71,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "St. Moritz",
+    "Code": 81,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Vevey",
+    "Code": 21,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Wengen",
+    "Code": 33,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Winterthur",
+    "Code": 52,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Zermatt",
+    "Code": 27,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Zug",
+    "Code": 41,
+    "CountryId": 130
+  },
+  {
+    "StateCity": "Zurich",
+    "Code": 43,
+    "CountryId": 130
+  },
+
+  {
+    "StateCity": "Antofagasta",
+    "Code": 55,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Arica",
+    "Code": 58,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Calama",
+    "Code": 55,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Chillan",
+    "Code": 42,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Concepcion",
+    "Code": 41,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Copiapo",
+    "Code": 52,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Coquimbo",
+    "Code": 51,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Curico",
+    "Code": 75,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Iquique",
+    "Code": 57,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "La Serena",
+    "Code": 51,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Osorno",
+    "Code": 64,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Ovalle",
+    "Code": 53,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Puerto Montt",
+    "Code": 65,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Punta Arenas",
+    "Code": 61,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Rancagua",
+    "Code": 72,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Santiago",
+    "Code": 2,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Talca",
+    "Code": 71,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Talcahuano",
+    "Code": 41,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Temuco",
+    "Code": 45,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Valdivia",
+    "Code": 63,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Valparaiso",
+    "Code": 32,
+    "CountryId": 131
+  },
+  {
+    "StateCity": "Vina del Mar",
+    "Code": 32,
+    "CountryId": 131
+  },
+
+  {
+    "StateCity": "Abengourou",
+    "Code": 35,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Abidjan",
+    "Code": 21,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Abobo",
+    "Code": 24,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Banco",
+    "Code": 23,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Bouaké",
+    "Code": 31,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Cocody",
+    "Code": 22,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Daloa",
+    "Code": 32,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Korhogo",
+    "Code": 36,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Man",
+    "Code": 33,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Plateau",
+    "Code": 20,
+    "CountryId": 133
+  },
+  {
+    "StateCity": "Yamoussoukro",
+    "Code": 30,
+    "CountryId": 133
+  },
+
+  {
+    "StateCity": "Yaounde",
+    "Code": 3,
+    "CountryId": 135
+  },
+
+  {
+    "StateCity": "Kinshasa",
+    "Code": 12,
+    "CountryId": 148
+  },
+
+  {
+    "StateCity": "Brazzaville",
+    "Code": 28,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Cuvette",
+    "Code": 21,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Niari",
+    "Code": 25,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Plateaux",
+    "Code": 24,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Pointe-Noire",
+    "Code": 29,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Pool",
+    "Code": 23,
+    "CountryId": 136
+  },
+  {
+    "StateCity": "Sangha",
+    "Code": 22,
+    "CountryId": 136
+  },
+
+  {
+    "StateCity": "Atiu",
+    "Code": 33,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Mangaia",
+    "Code": 34,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Manihiki",
+    "Code": 43,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Mauke",
+    "Code": 35,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Mitiaro",
+    "Code": 36,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Palmerston",
+    "Code": 37,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Penrhyn",
+    "Code": 42,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Pukapuka",
+    "Code": 41,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Rakahanga",
+    "Code": 44,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Aitutaki",
+    "Code": 31,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Aitutaki",
+    "Code": 32,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Nassau",
+    "Code": 45,
+    "CountryId": 137
+  },
+  {
+    "StateCity": "Rarotonga",
+    "Code": 2,
+    "CountryId": 137
+  },
+
+  {
+    "StateCity": "Armenia",
+    "Code": 6,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Barranquilla",
+    "Code": 5,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Bogota",
+    "Code": 1,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Bucaramanga",
+    "Code": 7,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Buenaventura",
+    "Code": 222,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Cali",
+    "Code": 2,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Cartagena",
+    "Code": 5,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Cucuta",
+    "Code": 7,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Ibague",
+    "Code": 8,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Manizales",
+    "Code": 6,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Medellin",
+    "Code": 4,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Neiva",
+    "Code": 8,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Palmira",
+    "Code": 2,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Pasto",
+    "Code": 27,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Pereira",
+    "Code": 6,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Santa Marta",
+    "Code": 5,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Soledad",
+    "Code": 831,
+    "CountryId": 138
+  },
+  {
+    "StateCity": "Villavicencio",
+    "Code": 8,
+    "CountryId": 138
+  },
+
+  {
+    "StateCity": "Moroni",
+    "Code": 73,
+    "CountryId": 139
+  },
+
+  {
+    "StateCity": "Limon",
+    "Code": 719,
+    "CountryId": 140
+  },
+  {
+    "StateCity": "San José",
+    "Code": 309,
+    "CountryId": 140
+  },
+
+  {
+    "StateCity": "Abreus",
+    "Code": 43,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Aguacate",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Aguada de Pasajeros",
+    "Code": 43,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Alquízar",
+    "Code": 67,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Alto Cedro",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Amancio",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Antilla",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Artemisa",
+    "Code": 63,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Baguanos",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bahia Honda",
+    "Code": 86,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Banes",
+    "Code": 24,
+    "CountryId": 142
+  },
+
+  {
+    "StateCity": "Baragua",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bartle",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bartolome Maso",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Batabanó",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Batalla de Las Guasimas",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bauta",
+    "Code": 680,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bayamo",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bejucal",
+    "Code": 66,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Biran",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Boca de Jaruco",
+    "Code": 6929,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Bolivia",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Brasil",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Buey Arriba",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cabañas",
+    "Code": 63,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cacocum",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Caimito del Guayabal",
+    "Code": 680,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Calimete",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Calixto Garcia",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Camaguey",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Camalote",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Camarioca",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Camilo Cienfuegos",
+    "Code": 692,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Camino",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Campechuela",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Canasí",
+    "Code": 6929,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Candido Gonzalez",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cárdenas",
+    "Code": 45,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cascorro",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Catalina de Güines",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cauto Cristo",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cayo Coco",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cayo Largo",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ceba Mocha",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ceballos",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ceiba Nuevo",
+    "Code": 680,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cespedes",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Chambas",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Chile",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cidra",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ciego de Ávila",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ciénaga de Zapata",
+    "Code": 59,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cienfuegos",
+    "Code": 432,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ciro Redondo",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Colón",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Communidad Pueblo Nuevo",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Consolación del Sur",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Contramaestre",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cortés",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cristino Naranjo",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Cueto",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Dos Caminos de San Luis",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "El Cobre",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "El Cristo",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Enrique Varona",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Entronque de Herradura",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Felton",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Florencia",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Florida",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Floro Perez",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Frank Pais",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Gibara",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Gramma",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guaimaro",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guanajay",
+    "Code": 686,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guane",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guantánamo",
+    "Code": 21,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guantanamo Bay Naval Air Stati",
+    "Code": 21,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guardalavaca",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guaro",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guatemala",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guayabal",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guayacanas",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Güines",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Güira de Melena",
+    "Code": 67,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Guisa",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Haiti",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Havana",
+    "Code": 7,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Havana (Ciudad La Habana)",
+    "Code": 7,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Holguin",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Imias",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Isabel Rubio",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Isla de la Juventud",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jagüey Grande",
+    "Code": 59,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jaruco",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jiguani",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jimaguayu",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jobabo",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jovellanos",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Jucaro",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Julio Antonio Mella",
+    "Code": 225,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Boca",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Coloma",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Demajagua",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Fé",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Jagua",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Reforma",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Salud",
+    "Code": 66,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "La Victoria",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Las Martinas",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Las Mercedes",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Las Ovas",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Las Parras",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Las Tunas",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Limonar",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Lopez Peña",
+    "Code": 85,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Los Palacios",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Los Reynaldos",
+    "Code": 22,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Lugareño",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mabay",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Maceo",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Madruga",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Majagua",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Majibacoa",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Manati",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mangos de Baragua",
+    "Code": 225,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mantua",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Manzanillo",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Marcane",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Marea de Portillo",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mariel",
+    "Code": 63,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Martí",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Matanzas",
+    "Code": 52,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mayari",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Media Luna",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Melena del Sur",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Menendez",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Minas",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Minas de Matahumbre",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Mir",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Miraflores",
+    "Code": 338,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Moa",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "MOBILE PHONES",
+    "Code": 789,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Najasa",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Neuvitas",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Nicaragua",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Nicaro",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Niquero",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Nueva",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Nueva Gerona",
+    "Code": 61,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Nueva Paz",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Omaja",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Orlando Gonzalez",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Pablo de Torriente",
+    "Code": 86,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Palma Soriano",
+    "Code": 225,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Pedro Betancourt",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Peralejo",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Pilon",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Pinar del Rio",
+    "Code": 82,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Playa Baracoa",
+    "Code": 680,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Playa Garón",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Playa Girón",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Playa Santa Lucia",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Primero de Enero",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Puerto Esperanza",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Puerto Marti",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Puerto Padre",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Quivicán",
+    "Code": 67,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Rafael Freyre",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Rio Cauto",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Rodolfo Ramirez Esquivel",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Ruta Invasora",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sábalo",
+    "Code": 84,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sagua de Tanamo",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "San Antonio de Las Vegas",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "San Antonio de Los Baños",
+    "Code": 650,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "San Jose de Las Lajas",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "San Juan y Martínez",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "San Nicolás de Bari",
+    "Code": 62,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sancti Spíritus",
+    "Code": 41,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sanguili",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Santa Cruz del Norte",
+    "Code": 692,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Santa Cruz del Sur",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Santiago de Cuba",
+    "Code": 226,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sibanicu",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Siboney",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Silvio Caro",
+    "Code": 63,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Sola",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Tacajo",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Tamarindo",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Tapaste",
+    "Code": 64,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Unión de Reyes",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Urbano Noris",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Varadero",
+    "Code": 5,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Vasquez",
+    "Code": 31,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Velasco",
+    "Code": 24,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Venezuela",
+    "Code": 33,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Vertientes",
+    "Code": 32,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Villa Clara",
+    "Code": 42,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Viñales",
+    "Code": 8,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Yado del Yeso",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Yara",
+    "Code": 23,
+    "CountryId": 142
+  },
+  {
+    "StateCity": "Yarual",
+    "Code": 338,
+    "CountryId": 142
+  }
+]
